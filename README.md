@@ -1,11 +1,12 @@
 # Perth-School-Catchments
 _Let's see if we can map the school catchment boundaries in Perth, Western Australia to compare against prospective real estate._
+Choosing a property within a good school zone is a common optimisation problem for parents and, as far as I am aware, there is no easy, preexisting solution publically available.
 
 ## Status
 We're in the early development stages, so any help would be very much appreciated.
 
 ## How to help
-Choosing a property within a good school zone is a common optimisation problem for parents and, as far as I am aware, there is no easy, preexisting solution publically available.
+Contact me, post an issue or feature request... but most of all, help me collate the catchment boundaries as it is going to be pretty manual.
 
 ## To Do List
 ### Research
